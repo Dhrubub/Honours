@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+models/
+datasets/
+
+.DS_store
+.vscode
