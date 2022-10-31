@@ -5,7 +5,7 @@ This repository contains the code submitted during the proposal and the thesis
 The repository contains only the code.
 No data or models are provided.
 
-Please contact the me if you would like the dataset and models used.
+Please contact me on 22704304@student.uwa.edu.au if you would like the dataset and models used.
 
 The datasets are publicly sourced and can be found at the following locations:
 
