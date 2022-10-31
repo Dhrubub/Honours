@@ -1,23 +1,14 @@
-## Class Names
+## Dhruv Jobanputra honours submission 2022
 
-Normal - includes: Normal, normal <br >
-AOM - includes: AOM <br >
-CSOM - includes: CSOM, Chronic otitis media <br >
-OME - includes: effusion <br >
-Tube - includes: Tube, earVentilationTube, TympanostomyTubes <br >
-Cerumen - includes: Earwax, Earwax plug, earwax <br >
-Tympanosclerosis - includes: Miringoskleroz, tympanoskleros, Myringosclerosis <br >
-Otitis Externa - includes: otitisexterna, OtitisEksterna <br >
+This repository contains the code submitted during the proposal and the thesis
 
-All others: foreign object ear, pseudo membranes - probably not going to include due to small sample size (for now) <br >
+The repository contains only the code.
+No data or models are provided.
 
-Look at the datasets_description.md for the description of the datasets and where to download them from. <br >
+Please contact the me if you would like the dataset and models used.
 
-Note the requirements.txt may have additional non-important packages. The important packages to get are:
+The datasets are publicly sourced and can be found at the following locations:
 
--   Tensorflow
--   Keras
--   keras-cv-attention-models
--   Matplotlib
--   Numpy
--   Pillow
+-   Dataset 1 - https://zenodo.org/record/4558155#.YmESp_OA4Uo
+-   Dataset 2 - https://figshare.com/articles/dataset/Ear_imagery_database/11886630
+-   Dataset 3 - http://www.ctganalysis.com/Category/otitis-media
